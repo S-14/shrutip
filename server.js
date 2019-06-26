@@ -5,7 +5,7 @@ var Controller=function(req, res){
   console.log("Invoking  rest api for solution list");
   var employee = [
   {id:1,name:"shruti",salary:10000000},
-  {id:2,name:"sp",salary:10000000}
+  {id:2,name:"snp",salary:10000000}
   ];
   res.send(employee);
 };
