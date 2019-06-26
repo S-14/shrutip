@@ -1,0 +1,27 @@
+Problem Definition:
+
+1.Rockwell Automation inc. has a 35000 employee all over world.
+2.it has 17 offshore development centers over world.
+2.company has private cloud for their IT solution.
+3 because of private cloud only limited employee access it but as a number of employee increase over world.
+4.but becoz of growth of company they want to use amazon web service public cloud as a service.
+5.so that all employee should able to access their solution from portal.
+6.it make data secure and access from anywhere from the world. so the person from london must able to access their data.
+7.it has 17 offshore development center so the data is huge and they want a big platform to store such huge project data.
+8.amazon web service is public cloud which allow to put all their data so their employee must see their project related document.
+9.it must resolve maintablity issue.
+10.able to add project related document such as source code,diagrams etc
+
+
+functional requirment
+
+1.able to add their human resource solution
+2.able to modify their resources solution
+3.employee able to access their solution from portal.
+
+non functional requirment
+
+1.peformance
+2.security
+3.portablity
+4.maintablity
